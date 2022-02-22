@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SoftwarePackageDependencyValidator.Client/1.0.0": {
+        "dependencies": {
+          "SoftwarePackageDependencyValidator.Data": "1.0.0"
+        },
+        "runtime": {
+          "SoftwarePackageDependencyValidator.Client.dll": {}
+        }
+      },
+      "SoftwarePackageDependencyValidator.Data/1.0.0": {
+        "runtime": {
+          "SoftwarePackageDependencyValidator.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftwarePackageDependencyValidator.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftwarePackageDependencyValidator.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
