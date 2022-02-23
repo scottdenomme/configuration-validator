@@ -56,8 +56,6 @@ namespace Data.Tests
             //Act
             ParsedDataResults testDataFromFile = ConfigurationParsingService.ParseFileData("./Resources/testData1.txt");
 
-            Console.WriteLine("PAUSE");
-
             //Assert
             bool valid = true;
 
@@ -78,7 +76,6 @@ namespace Data.Tests
             }
 
             Assert.True(valid);
-            Console.WriteLine("PAUSE");
         }
     }
 }
