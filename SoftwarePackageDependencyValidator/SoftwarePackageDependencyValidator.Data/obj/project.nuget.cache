@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGgS45+Ct3GCLEOh28Vqk6FWjTc5w2pHpea3X6rVHBoQ0lOfUYIY7u2lP0Q5xSinbvl3+G6RYbOxoxmgzqfrBA==",
+  "dgSpecHash": "iT5KCR0yBam5ybW6oQWV/hfF9tVyWa1/ig+wW02JXAwpIaf+XWYIcOLrhomC+Lzs4ndtwzGFEnTI7AM1/PoBPQ==",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj",
+  "projectFilePath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj": {}
+    "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj": {
+    "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj",
+        "projectUniqueName": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj",
         "projectName": "SoftwarePackageDependencyValidator.Data",
-        "projectPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj",
+        "projectPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj",
         "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\obj\\",
+        "outputPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj": {
+    "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj",
+        "projectUniqueName": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj",
         "projectName": "SoftwarePackageDependencyValidator.Client",
-        "projectPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj",
+        "projectPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Client.csproj",
         "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\obj\\",
+        "outputPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -94,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj": {
-                "projectPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj"
+              "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj": {
+                "projectPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj"
               }
             }
           }

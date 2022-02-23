@@ -22,7 +22,8 @@ namespace SoftwarePackageDependencyValidator.Data.Services
 
             string [] configurationFile = RetrieveFileData(path);
 
-            if (configurationFile == null) throw new ArgumentNullException(nameof(configurationFile));
+            if (configurationFile == null)
+                return null;
 
             try
             {

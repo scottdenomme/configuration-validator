@@ -9,14 +9,13 @@ namespace SoftwarePackageDependencyValidator
     {
         static void Main(string[] args)
         {
-            //ParsedDataResults parsedDataResults = ConfigurationParsingService.ParseFileData($"D:\\Downloads\\testdata\\testdata\\input009.txt");
             Console.WriteLine("Please enter a Configuration File location: ");
             string filePath = Console.ReadLine();
 
             ParsedDataResults parsedDataResults = ConfigurationParsingService.ParseFileData(filePath);
 
             if (parsedDataResults == null)
-                Console.WriteLine("FAIL");
+                Console.WriteLine('\n' + "FAIL");
             else
             {
                 bool result = ConfigurationValidationService.ValidateDependencies(parsedDataResults);

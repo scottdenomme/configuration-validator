@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Os8pR7jT0uOSKKMN+VDO1+3ffsxXH+xhu9e/OrSRIlBxrL2N3cISTptZHy/Bay+tQ7hYQlBwekCuKY+Kd2cUXQ==",
+  "dgSpecHash": "IV7u0+3Xmf4MJUqUZBXptQ5vWVS+LjP6YfpCf1GQa30bMjIfJHVm/XCZPws90ZdOB6jCc2GUQTHj6BKu3I380Q==",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\Data.Tests\\Data.Tests.csproj",
+  "projectFilePath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\Data.Tests\\Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scott\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

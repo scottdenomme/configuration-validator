@@ -22,11 +22,10 @@ namespace SoftwarePackageDependencyValidator.Data.Services
             foreach(Package package in parsedDataResults.PackagesToInstall)
             {
                 if (!RequiredPackages.Any(p => p.Name == package.Name && p.Version == package.Version))
-                {
-                    
+                {   
                     RequiredPackages.Add(new Package(package.Name, package.Version));
                     AddDependencies(package, parsedDataResults);
-                }//addPackageDependencies(p);
+                }
             }
 
             if (RequiredPackages.GroupBy(p => p.Name).Where(g => g.Count() > 1).Select(r => r.Key).Any())

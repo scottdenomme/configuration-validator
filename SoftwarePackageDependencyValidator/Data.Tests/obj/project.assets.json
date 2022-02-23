@@ -5934,11 +5934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\Data.Tests\\Data.Tests.csproj",
+      "projectUniqueName": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\Data.Tests\\Data.Tests.csproj",
       "projectName": "Data.Tests",
-      "projectPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\Data.Tests\\Data.Tests.csproj",
+      "projectPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\Data.Tests\\Data.Tests.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\Data.Tests\\obj\\",
+      "outputPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\Data.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5961,8 +5961,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj": {
-              "projectPath": "D:\\source\\repos\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj"
+            "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj": {
+              "projectPath": "D:\\source\\repos\\configuration-validator\\SoftwarePackageDependencyValidator\\SoftwarePackageDependencyValidator.Data\\SoftwarePackageDependencyValidator.Data.csproj"
             }
           }
         }
