@@ -41,7 +41,6 @@ namespace Data.Tests
 
             //Assert
             Assert.True(pass);
-
         }
     }
 }
